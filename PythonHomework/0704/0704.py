@@ -1,4 +1,3 @@
-from turtle import left, right
 import cv2
 import numpy as np
 import os
